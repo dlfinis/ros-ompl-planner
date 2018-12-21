@@ -1,0 +1,7 @@
+<library path="lib/libompl_global_planner_base_lib">
+  <class name="ompl_global_planner_base/OmplGlobalPlannerBase" type="ompl_global_planner_base::OmplGlobalPlannerBase" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      Plugin for Open Motion Planning Library to BaseGlobalPlanner.
+    </description>
+  </class>
+</library>
