@@ -1,5 +1,3 @@
-// Copyright 2016 Lorenzo Nardi
-
 #include <ompl_global_planner_base/ompl_global_planner_base.h>
 #include <pluginlib/class_list_macros.h>
 
